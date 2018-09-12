@@ -1,0 +1,13 @@
+UPDATE `creature_template` SET `faction`='188' WHERE  `entry`=32791;
+
+DELETE FROM `game_event_creature` WHERE `guid` IN (10646516,10647297,10647406,10649146,10649606,10649757,10652209,10652904);
+INSERT INTO `game_event_creature` (`eventEntry`, `guid`) VALUES 
+(9, 10646516),
+(9, 10647297),
+(9, 10647406),
+(9, 10649146),
+(9, 10649606),
+(9, 10649757),
+(9, 10652209),
+(9, 10652904);
+

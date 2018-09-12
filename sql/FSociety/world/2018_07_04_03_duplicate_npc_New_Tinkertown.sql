@@ -1,0 +1,55 @@
+
+
+DELETE FROM `creature` WHERE  `guid`=168813;
+DELETE FROM `creature` WHERE  `guid`=168819;
+DELETE FROM `creature` WHERE  `guid`=168829;
+DELETE FROM `creature` WHERE  `guid`=168845;
+DELETE FROM `creature` WHERE  `guid`=168851;
+DELETE FROM `creature` WHERE  `guid`=168854;
+DELETE FROM `creature` WHERE  `guid`=168857;
+DELETE FROM `creature` WHERE  `guid`=168869;
+DELETE FROM `creature` WHERE  `guid`=168874;
+DELETE FROM `creature` WHERE  `guid`=168877;
+DELETE FROM `creature` WHERE  `guid`=168880;
+DELETE FROM `creature` WHERE  `guid`=168883;
+DELETE FROM `creature` WHERE  `guid`=168903;
+DELETE FROM `creature` WHERE  `guid`=169302;
+DELETE FROM `creature` WHERE  `guid`=169340;
+DELETE FROM `creature` WHERE  `guid`=169343;
+
+DELETE FROM `creature` WHERE  `guid`=168814;
+DELETE FROM `creature` WHERE  `guid`=168820;
+DELETE FROM `creature` WHERE  `guid`=168830;
+DELETE FROM `creature` WHERE  `guid`=168846;
+DELETE FROM `creature` WHERE  `guid`=168852;
+DELETE FROM `creature` WHERE  `guid`=168855;
+DELETE FROM `creature` WHERE  `guid`=168858;
+DELETE FROM `creature` WHERE  `guid`=168870;
+DELETE FROM `creature` WHERE  `guid`=168875;
+DELETE FROM `creature` WHERE  `guid`=168878;
+DELETE FROM `creature` WHERE  `guid`=168881;
+DELETE FROM `creature` WHERE  `guid`=168884;
+DELETE FROM `creature` WHERE  `guid`=168904;
+DELETE FROM `creature` WHERE  `guid`=169303;
+DELETE FROM `creature` WHERE  `guid`=169341;
+DELETE FROM `creature` WHERE  `guid`=169344;
+
+DELETE FROM `creature` WHERE  `guid`=168772;
+DELETE FROM `creature` WHERE  `guid`=168775;
+DELETE FROM `creature` WHERE  `guid`=168778;
+DELETE FROM `creature` WHERE  `guid`=168815;
+DELETE FROM `creature` WHERE  `guid`=168821;
+DELETE FROM `creature` WHERE  `guid`=168831;
+DELETE FROM `creature` WHERE  `guid`=168847;
+DELETE FROM `creature` WHERE  `guid`=168853;
+DELETE FROM `creature` WHERE  `guid`=168856;
+DELETE FROM `creature` WHERE  `guid`=168859;
+DELETE FROM `creature` WHERE  `guid`=168871;
+DELETE FROM `creature` WHERE  `guid`=168876;
+DELETE FROM `creature` WHERE  `guid`=168879;
+DELETE FROM `creature` WHERE  `guid`=168882;
+DELETE FROM `creature` WHERE  `guid`=168885;
+DELETE FROM `creature` WHERE  `guid`=168905;
+DELETE FROM `creature` WHERE  `guid`=169304;
+DELETE FROM `creature` WHERE  `guid`=169342;
+DELETE FROM `creature` WHERE  `guid`=169345;

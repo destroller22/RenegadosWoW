@@ -1,0 +1,1 @@
+ALTER TABLE `account` ADD COLUMN `loyalty_points` INT(10) DEFAULT 0 AFTER `battlenet_index`;

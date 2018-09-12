@@ -1,0 +1,2 @@
+UPDATE quest_template SET RewardFactionOverride1='35000', RewardFactionOverride2='35000' WHERE ID IN (6386);
+UPDATE quest_template SET RewardFactionOverride1='15000', RewardFactionOverride2='15000' WHERE ID IN (9512,9741);

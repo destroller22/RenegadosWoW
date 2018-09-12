@@ -1,0 +1,1 @@
+UPDATE `gameobject_template` SET `ScriptName`='go_scroll_post' WHERE `entry`= 210986;

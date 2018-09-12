@@ -1,0 +1,3 @@
+/* Movi el npc borgoth el flebotomista 16247 y a Masophet el Negro 16249 que estan en la zona equivocada para la zona marcada segun el mapa original */
+UPDATE `creature` SET `position_x`='6439.62', `position_y`='-6642.83', `position_z`='107.43', `orientation`='1.758417' WHERE  `guid`=56159;
+UPDATE `creature` SET `position_x`='6311.15', `position_y`='-6249.64', `position_z`='80.8126', `orientation`='2.520246' WHERE  `guid`=56157;

@@ -1,0 +1,1 @@
+UPDATE creature_template SET ScriptName = "mob_quest_invi" WHERE entry = 54609;

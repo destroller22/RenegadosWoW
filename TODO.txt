@@ -1,0 +1,18 @@
+TAREAS CON MAYOR PRIORIDAD
+
+- Pasar de colossus la zona de inicio de los DH principalmente la parte 2 camaras de las celadoras
+- Hacer la parte de SQL de la parte 2 de mardum yo me encargo de esta parte DOVERMAN930
+- Pasar el spell Revenge o hacerle una revicion por que puedo ver que si esta implementado el spell
+en el cpp de spell de warrior pero no funciona x alguna razon NOTA: el spell en WoD es el mismo que en legion
+se puede tomar el arreglo de ahi.
+- Arreglar el spell de Travel Form del druida funciona pesimo NOTA: el spell en WoD funciona identico 
+se puede pasar d ahi ya q funciona perfectamente
+
+ESTAS TAREAS QUEDAN PENDIENTE A TERMINAR LO ANTES POSIBLE HAY MAS ERRORES PERO SE PONDRAN LUEGO QUE ESTOS ESTEN FIXEADOS
+
+EL EQUIPO DEV - SAI ESTA TRABAJANDO EN LAS ZONAS DE INCIO
+
+-DOVERMAN930 - WORGEN STARTING ZONE
+-LKARTHAS - GOBLIN STARTING ZONE
+-MAYOR - PANDARENS STARTING ZONE
+-COCOX -ECHO ISLE, VALLE DEL HONOR y zona inicio undead
