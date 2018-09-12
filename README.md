@@ -1,2 +1,1 @@
-A todo el mundo le llega su hora
-Made In Cuba
+Revenge is a dish that is eaten cold ...
